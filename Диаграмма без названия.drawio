@@ -1,14 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T17:16:11.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q5Zz4hGxqQoODS8QUtrs" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-16T17:37:12.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0Rv9ffXT0bZKXMwdBu-0" version="24.5.4" type="github">
   <diagram name="Страница — 1" id="LIIuhwHGJ4LWMUaH4cuz">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A13wthXS2XjpTKLkwlDc-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="A13wthXS2XjpTKLkwlDc-5" target="A13wthXS2XjpTKLkwlDc-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="397.5" as="sourcePoint" />
+            <mxPoint x="750" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="800" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="A13wthXS2XjpTKLkwlDc-1" value="начало" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry y="300" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="A13wthXS2XjpTKLkwlDc-2" value="страница авторизации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="300" width="110" height="57.5" as="geometry" />
+          <mxGeometry x="110" y="300" width="110" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="A13wthXS2XjpTKLkwlDc-3" value="поле ввода email" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="300" width="120" height="60" as="geometry" />
@@ -18,6 +27,63 @@
         </mxCell>
         <mxCell id="A13wthXS2XjpTKLkwlDc-5" value="ввод нового пароля" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-6" value="страница авторизации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-7" value="конец" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="670" y="540" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.648;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A13wthXS2XjpTKLkwlDc-2" target="A13wthXS2XjpTKLkwlDc-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="300" as="sourcePoint" />
+            <mxPoint x="270" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="250" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="330" as="sourcePoint" />
+            <mxPoint x="110" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="699.52" y="480" as="sourcePoint" />
+            <mxPoint x="700" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-14" value="восстановить пароль" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.648;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="300" as="sourcePoint" />
+            <mxPoint x="499" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="419" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-17" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: -apple-system, BlinkMacSystemFont, Roboto, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, &amp;quot;Noto Sans Armenian&amp;quot;, &amp;quot;Noto Sans Bengali&amp;quot;, &amp;quot;Noto Sans Cherokee&amp;quot;, &amp;quot;Noto Sans Devanagari&amp;quot;, &amp;quot;Noto Sans Ethiopic&amp;quot;, &amp;quot;Noto Sans Georgian&amp;quot;, &amp;quot;Noto Sans Hebrew&amp;quot;, &amp;quot;Noto Sans Kannada&amp;quot;, &amp;quot;Noto Sans Khmer&amp;quot;, &amp;quot;Noto Sans Lao&amp;quot;, &amp;quot;Noto Sans Osmanya&amp;quot;, &amp;quot;Noto Sans Tamil&amp;quot;, &amp;quot;Noto Sans Telugu&amp;quot;, &amp;quot;Noto Sans Thai&amp;quot;, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;ввод email, далее&lt;/span&gt;&#xa;&#xa;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.648;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="521" y="300" as="sourcePoint" />
+            <mxPoint x="670" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-20" value="переход по ссылке из письма" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="230" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A13wthXS2XjpTKLkwlDc-22" value="ввод и подтверждение нового пароля, сохранить" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="380" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
